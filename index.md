@@ -30,6 +30,6 @@
 
 
 
-<a href="http://explosm.net/">-快樂氰化物漫畫-</a>
+<a href="http://explosm.net/">-快樂氰化物漫畫-</a><>
 <a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw">快樂氰化物官方Youtube</a>
 
