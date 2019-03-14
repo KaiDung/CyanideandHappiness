@@ -1,4 +1,11 @@
+<style>
+  
+  .small-size{
+    width:80px;
+    height:80px;
+  }
 
+</style>
 <h1>大人的幽默--快樂氰化物</h1>
 <img src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
 
@@ -31,6 +38,6 @@
 
 
 <a href="http://explosm.net/">快樂氰化物漫畫</a><br>
-<img src="https://yt3.ggpht.com/a-/AAuE7mB5DtTGo91AaN4v5UOWOgkI5-iRl28OEgiS_g=s288-mo-c-c0xffffffff-rj-k-no">
+<img class="small-size" src="https://yt3.ggpht.com/a-/AAuE7mB5DtTGo91AaN4v5UOWOgkI5-iRl28OEgiS_g=s288-mo-c-c0xffffffff-rj-k-no">
 <a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw">快樂氰化物官方Youtube</a>
 
