@@ -1,5 +1,12 @@
-## Teddy bear
-<img src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
+## TED BEAR
+<style>
+  
+  .img-size{
+      width: 100px;
+   }
+  
+ </style>
+<img class="img-size" src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
 You can use the [editor on GitHub](https://github.com/KaiDung/personalpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
