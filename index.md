@@ -23,7 +23,7 @@
 
 <p>快樂氰化物有出四格漫畫跟動畫，劇情有時候無厘頭、暴力、詭異，有時候看到了最後結局給你一個大轉彎，有時候是看完了還不知道這集想表達什麼，但大部分他們總是可以正中我的下懷，讓我哈哈大笑。
 
-<p>以下是我認為一些比較經典的快樂氰化物影集，讓不認識快樂氰化物的朋友可以簡單地了解一下他們的中心思想--黑色幽默</p>
+<p>以下是我認為一些比較經典的快樂氰化物影集，讓不知道如何吸食快樂氰化物的朋友可以快速上手</p>
 
 <h2>TED BEAR</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JV37xFWqdv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
