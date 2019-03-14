@@ -30,6 +30,6 @@
 
 
 
-<p><a href="http://explosm.net/"><img width="80px" heigth="45px" src="http://www.userlogos.org/files/logos/Rog/explosm_net_02.png"></a>快樂氰化物官方漫畫</p>
-<p><a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a>快樂氰化物官方Youtube</p>
+<p><a href="http://explosm.net/"><img width="80px" heigth="45px" src="http://www.userlogos.org/files/logos/Rog/explosm_net_02.png"></a><-快樂氰化物官方漫畫</p>
+<p><a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a><-快樂氰化物官方Youtube</p>
 
