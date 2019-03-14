@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/KaiDung/personalpage/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<a href="https://www.youtube.com/watch?v=JV37xFWqdv8"
+<a href="https://www.youtube.com/watch?v=JV37xFWqdv8"></a>
 
 ### Jekyll Themes
 
