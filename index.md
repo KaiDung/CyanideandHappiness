@@ -31,8 +31,8 @@
 <h3>Emergency</h3>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/4-dRhzvZGLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-<h3>Guns</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/45glq7huJJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Man's Best Friends</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJbDSPRqX0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>官方連結：</h2>
