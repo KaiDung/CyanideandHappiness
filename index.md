@@ -12,7 +12,7 @@
 <li>Dave McElfatrick</li>
 </ul>
 
-<p>以下是我認為比較經典的快樂氰化物影集，讓不認識快樂氰化物的朋友可以簡單地了解一下他們的中心思想--黑色幽默</p>
+<p>以下是我認為一些比較經典的快樂氰化物影集，讓不認識快樂氰化物的朋友可以簡單地了解一下他們的中心思想--黑色幽默</p>
 
 <h2>TED BEAR</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JV37xFWqdv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
