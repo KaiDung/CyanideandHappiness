@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <h1>大人的幽默--快樂氰化物</h1>
 <img src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
