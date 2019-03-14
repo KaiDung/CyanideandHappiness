@@ -31,5 +31,5 @@
 
 
 <a href="http://explosm.net/">快樂氰化物漫畫</a><br>
-<p>快樂氰化物官方<a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a></>
+<p>快樂氰化物官方-><a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a></>
 
