@@ -1,4 +1,4 @@
-<main>
+
 <h1>          大人的幽默,快樂氰化物</h1>
 <img src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
 
@@ -19,4 +19,3 @@
 
 <a href="http://explosm.net/">-點此獲得更多快樂氰化物-</a>
 
-</main>
