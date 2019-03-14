@@ -25,8 +25,14 @@
 
 <p>以下是我認為一些比較經典的快樂氰化物影集，讓不知道如何吸食快樂氰化物的朋友可以快速上手</p>
 
-<h2>TED BEAR</h2>
+<h3>TED BEAR</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDCNJdeM9PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Emergency</h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/4-dRhzvZGLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+<h3>Guns</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45glq7huJJc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>官方連結：</h2>
