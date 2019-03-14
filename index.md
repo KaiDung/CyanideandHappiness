@@ -40,4 +40,4 @@
 <p><a href="http://explosm.net/" target="_blank"><img width="80px" heigth="80px" src="https://vignette.wikia.nocookie.net/explosm/images/c/c9/Logo.png/revision/latest?cb=20170313085816"></a><-快樂氰化物官方漫畫</p>
 <p><a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw" target="_blank"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a><-快樂氰化物官方Youtube</p>
 <p><a href="https://www.facebook.com/explosm" target="_blank"><img width="70px" height="70px" src="https://www.brandinlabs.com/wp-content/uploads/2013/05/Facebookicon2013_002.png"></a><-快樂氰化物官方臉書</p>
- <p><a href="https://github.com/KaiDung"><img width="80px" height="80px" src="https://image.flaticon.com/icons/svg/25/25231.svg"></a><-我的Github主頁</p>
+ <p><a href="https://github.com/KaiDung" target="_blank"><img width="80px" height="80px" src="https://image.flaticon.com/icons/svg/25/25231.svg"></a><-我的Github主頁</p>
