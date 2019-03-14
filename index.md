@@ -29,7 +29,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JV37xFWqdv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 
-
+<h4>官方連結</h5>
 <p><a href="http://explosm.net/"><img width="80px" heigth="45px" src="https://vignette.wikia.nocookie.net/explosm/images/c/c9/Logo.png/revision/latest?cb=20170313085816"></a><-快樂氰化物官方漫畫</p>
 <p><a href="https://www.youtube.com/channel/UCWXCrItCF6ZgXrdozUS-Idw"><img width="80px" height="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png"></a><-快樂氰化物官方Youtube</p>
 
