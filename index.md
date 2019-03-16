@@ -27,7 +27,7 @@
 
 <img width="627" height="535" src="https://i.imgur.com/6YnKgM0.jpg">
 
-<p style="font-family:標楷體;font-weight:bold;">-------以下是我認為一些比較經典的快樂氰化物影集，讓不知道如何吸食快樂氰化物的朋友可以快速上手------</p>
+<p style="font-family:標楷體;font-weight:bold;">------以下是我認為一些比較經典的快樂氰化物影集，讓不知道如何吸食快樂氰化物的朋友可以快速上手-----</p>
 <h3>Ted Bear</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDCNJdeM9PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
