@@ -1,6 +1,6 @@
 <head>
 <h1 style="font-family:標楷體;font-weight:bold;">大人的幽默--快樂氰化物</h1>
-<img src="https://i.ytimg.com/vi/afvUOkKCrUE/maxresdefault.jpg">
+<img src="https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.0-9/1013964_10152378721300476_375067283_n.jpg?_nc_cat=102&_nc_eui2=AeElAgkYb4U5z0RXelF11cD1CnMpN7ZzoGB8ABwsOy6ycLGnZOFBUuUFL3zm_XVgy8fCW34V00vQXP72FP89jWm7ixHyiU2WvdMdsZ9gvoJ5gg&_nc_ht=scontent.ftpe9-1.fna&oh=cf24e7679a6f07355652c3b5e57977b2&oe=5D11BC42">
 </head>
 <body background="//i.imgur.com/pRRpSJ7.png">
  
