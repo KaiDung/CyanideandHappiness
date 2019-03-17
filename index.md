@@ -21,7 +21,7 @@
 這一派作品中充斥的諷刺幽默與傳統的幽默大不相同：並不表現一種單純的滑稽情趣，而帶著濃重的荒誕、絕望、陰暗甚至殘忍的色彩。作品以一種無可奈何的嘲諷態度表現環境和個人(即「自我」)之間的互不協調，並把這種互不協調的現象加以放大，扭曲，變成畸形，使它們顯得更加荒誕不經，滑稽可笑，同時又令人感到沉重和苦悶。
 --資料取自<a href="https://zh.wikipedia.org/wiki/%E9%BB%91%E8%89%B2%E5%B9%BD%E9%BB%98">維基百科</a></p>
 
-<img width="500px" height="500px"src="https://i.imgur.com/EshtYD3.png">
+<img width="500px" height="500px" src="https://i.imgur.com/EshtYD3.png">
 
 <h2 style="font-family:標楷體;font-weight:bold;">長年使用快樂氰化物後的心得</h2>
 
