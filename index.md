@@ -23,13 +23,16 @@
 
 <h2 style="font-family:標楷體;font-weight:bold;">長年使用快樂氰化物後的心得</h2>
 
-<p style="font-family:標楷體;font-weight:bold;">快樂氰化物有出四格漫畫跟動畫，劇情有時候無厘頭、暴力、詭異，有時候看到了最後結局給你一個大轉彎，有時候是看完了還不知道這集想表達什麼，但大部分他們總是可以正中我的下懷，讓我哈哈大笑。</p>
+<p style="font-family:標楷體;font-weight:bold;">快樂氰化物有出四格漫畫跟動畫，劇情有時候無厘頭、暴力、詭異，有時候看到了最後結局給你一個大轉彎，有時候是看完了還不知道這集想表達什麼，但大部分他們總是可以用詼諧幽默的方式正中我的下懷，讓我哈哈大笑。不過有時候他們會產出高深度的影集，像是酒後駕車會死人之類的，影集的背後還是會有讓人反思的元素在，不是全部都是無腦的劇情。快樂氰化物真的讓我受益良多，所以在此推廣一下。</p>
 
 <img width="627" height="535" src="https://i.imgur.com/6YnKgM0.jpg">
 
 <p style="font-family:標楷體;font-weight:bold;">---以下是我認為一些比較經典的快樂氰化物影集，讓不知道如何吸食快樂氰化物的朋友可以快速上手---</p>
 <h3>Ted Bear</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zDCNJdeM9PE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Drunk</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0u22Q9B8AzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3>Out of Order</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D49vvl7BPro" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
