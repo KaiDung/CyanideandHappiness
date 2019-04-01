@@ -9,12 +9,12 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("body").effect(" shake ");
+    $("p").toggle();
   });
 });
 </script>
 </head>
-<button type="button" style="position:fixed;top:100px;left:100px">點此搖動頁面</button>
+<button type="button" style="position:fixed;top:100px;left:100px">點此隱藏文字</button>
 
 <body background="//i.imgur.com/pRRpSJ7.png">
   
