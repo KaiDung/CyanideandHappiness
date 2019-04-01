@@ -12,7 +12,7 @@
 		<script>
 			$(document).ready(function(){
   			$("button").click(function(){
-    			$("p").addClass("animated shake");
+    			$("p").effect("shake");
   		});
 		});
 		</script>
