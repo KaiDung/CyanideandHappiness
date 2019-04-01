@@ -4,7 +4,7 @@
   font-weight:bold;
   }
 </style>
-<head>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<script>
 			$(document).ready(function(){
@@ -18,7 +18,7 @@
 <p>
 <h1 class="topic">大人的幽默--快樂氰化物</h1>
 <img src="https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.0-9/1013964_10152378721300476_375067283_n.jpg?_nc_cat=102&_nc_eui2=AeElAgkYb4U5z0RXelF11cD1CnMpN7ZzoGB8ABwsOy6ycLGnZOFBUuUFL3zm_XVgy8fCW34V00vQXP72FP89jWm7ixHyiU2WvdMdsZ9gvoJ5gg&_nc_ht=scontent.ftpe9-1.fna&oh=cf24e7679a6f07355652c3b5e57977b2&oe=5D11BC42">
-</head>
+
 <body background="//i.imgur.com/pRRpSJ7.png">
  
 <p style="font-family:標楷體;font-weight:bold;">快樂氰化物（Cyanide & Happiness，又翻譯作氰化歡樂秀）是一個以黑色幽默爲主題的網路漫畫系列。系列首創於2004年12月9日，並於2005年1月26日正式在作者們創辦的explosm.net上開始連載。透過Facebook等社交媒介的傳播，網站在2006年4月便達到了超過百萬的月瀏覽量。 漫畫作者們將漫畫的成功歸因於其採用的各種爭議題材。</p>
