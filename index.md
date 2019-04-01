@@ -1,7 +1,5 @@
 <script>
-  $(document).ready(function() {
-    $("#topic").addClass("animated shake");
-  });
+  $("#topic").addClass("animated shake");
 </script>
 
 
