@@ -9,12 +9,12 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("body").toggle;
+    $("body").toggle();
   });
 });
 </script>
 </head>
-<button type="button" style="background-color:blue;position:fixed;top:100px;left:100px">點此隱藏頁面</button>
+<button type="button" style="position:fixed;top:100px;left:100px">點此隱藏頁面</button>
 
 <body background="//i.imgur.com/pRRpSJ7.png">
   
