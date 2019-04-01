@@ -14,7 +14,7 @@ $(document).ready(function(){
 });
 </script>
 </head>
-<button type="button" style="position:fixed;top:100px;left:100px">點此隱藏圖片</button>
+<button type="button" style="position:fixed;top:100px;left:100px">點此隱藏/開啟圖片</button>
 
 <body background="//i.imgur.com/pRRpSJ7.png">
   
