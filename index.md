@@ -4,16 +4,16 @@
   font-weight:bold;
   }
 </style>
-
+<head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script>
-			$(document).ready(function(){
-  			$("button").click(function(){
-    			$("p").toggle;
-  		});
-		});
-		</script>
-
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $("p").toggle;
+  });
+});
+</script>
+</head>
 <button type="button" style="position:fixed;top:100px;left:100px">點此隱藏頁面</button>
 <p>
 <h1 class="topic">大人的幽默--快樂氰化物</h1>
