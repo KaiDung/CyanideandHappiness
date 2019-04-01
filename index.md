@@ -5,12 +5,12 @@
   }
 </style>
 
+<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script>
-    $(".topic").addClass("animated shake");
-
- );
+$(document).ready(function() {
+  $(".topic").addClass("animated shake");
+});
 </script>
-
 
 
 <head>
