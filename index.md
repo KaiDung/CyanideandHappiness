@@ -8,7 +8,7 @@
   }
 </style>
 
-<script src="CyanideandHappiness/jquery-3.3.1.js"></script>
+<script src="https://raw.githubusercontent.com/KaiDung/CyanideandHappiness/master/jquery-3.3.1.js"></script>
 <script>
   $(document).ready(function() {
     $(".topic").toggle;
