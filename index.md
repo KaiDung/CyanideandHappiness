@@ -9,7 +9,7 @@
 <script>
 $(document).ready(function(){
   $("button").click(function(){
-    $("").toggle();
+    $("img").toggle();
   });
 });
 </script>
