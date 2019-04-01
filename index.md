@@ -12,12 +12,13 @@
 		<script>
 			$(document).ready(function(){
   			$("button").click(function(){
-    			$("body").addClass("animated shake");
+    			$("p").addClass("animated shake");
   		});
 		});
 		</script>
 
 <button type="button">哈林搖</button>
+<p>
 <h1 class="topic">大人的幽默--快樂氰化物</h1>
 <img src="https://scontent.ftpe9-1.fna.fbcdn.net/v/t1.0-9/1013964_10152378721300476_375067283_n.jpg?_nc_cat=102&_nc_eui2=AeElAgkYb4U5z0RXelF11cD1CnMpN7ZzoGB8ABwsOy6ycLGnZOFBUuUFL3zm_XVgy8fCW34V00vQXP72FP89jWm7ixHyiU2WvdMdsZ9gvoJ5gg&_nc_ht=scontent.ftpe9-1.fna&oh=cf24e7679a6f07355652c3b5e57977b2&oe=5D11BC42">
 </head>
@@ -72,3 +73,4 @@
 <p style="font-family:標楷體;font-weight:bold;"><a href="https://www.facebook.com/explosm" target="_blank"><img width="70px" height="70px" src="https://www.brandinlabs.com/wp-content/uploads/2013/05/Facebookicon2013_002.png"></a><-快樂氰化物官方臉書</p>
 <p style="font-family:標楷體;font-weight:bold;"><a href="https://github.com/KaiDung" target="_blank"><img width="80px" height="80px" src="https://image.flaticon.com/icons/svg/25/25231.svg"></a><-我的Github主頁</p>
  </body>
+ </p>
