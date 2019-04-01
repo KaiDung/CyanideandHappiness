@@ -12,7 +12,10 @@
 		<script>
 			$(document).ready(function(){
   			$("button").click(function(){
-    			$("body").toggle();
+    			$("h1").toggle();
+			$("p").toggle();
+			$("h2").toggle();
+			$("h3").toggle();
   		});
 		});
 		</script>
