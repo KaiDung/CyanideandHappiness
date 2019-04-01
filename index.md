@@ -11,7 +11,7 @@
 <script src="CyanideandHappiness/jquery-3.3.1.js"></script>
 <script>
   $(document).ready(function() {
-    $(".topic").addClass("animated shake");
+    $(".topic").toggle;
   });
 </script>
 
