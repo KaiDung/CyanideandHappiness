@@ -6,10 +6,9 @@
 </style>
 
 <script>
-  $(document).ready(function() {
     $(".topic").addClass("animated shake");
 
-  });
+ );
 </script>
 
 
