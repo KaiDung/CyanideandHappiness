@@ -12,7 +12,7 @@
 		<script>
 			$(document).ready(function(){
   			$("button").click(function(){
-    			$("p").toggle();
+    			$("body").toggle();
   		});
 		});
 		</script>
