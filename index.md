@@ -12,7 +12,7 @@
 <script>
   $(document).ready(function() {
     $("button").click(function(){
-      $("body").toggle;
+      $("body").addClass("animated fadeOut");
     )};
   });
 </script>
