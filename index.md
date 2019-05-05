@@ -7,12 +7,12 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script>
-<a class="top" href="#">回到頂部</a>
-$('.top').click(function (e) {
-    e.preventDefault();
-    $('html, body').animate({scrollTop: 0}, 800); //在800毫秒内让页面滚动到文档的顶部
-});
-</script>
+			$(document).ready(function(){
+  			$("button").click(function(){
+    			$("img").toggle();
+  		});
+		});
+		</script>
 </head>
 <button type="button" style="position:fixed;top:100px;left:100px">點此隱藏/開啟圖片</button>
 
