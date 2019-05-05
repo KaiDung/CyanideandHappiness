@@ -5,12 +5,12 @@
   }
 </style>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 <script>
-$(document).ready(function(){
-  $("button").click(function(){
-    $("img").toggle();
-  });
+<a class="top" href="#">回到頂部</a>
+$('.top').click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({scrollTop: 0}, 800); //在800毫秒内让页面滚动到文档的顶部
 });
 </script>
 </head>
